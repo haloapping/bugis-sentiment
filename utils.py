@@ -3,6 +3,8 @@ import pickle
 import sklearn
 from pathlib import Path
 
+nltk.download('punkt')
+
 def load_model(name):
     if name == "count":
         return pickle.load(open(Path("pretrained_models/count_vect_model.pkl"), "rb"))
