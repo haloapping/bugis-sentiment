@@ -1,0 +1,1 @@
+print("Hi i'm from luwu timur, indonesia 🙂")
