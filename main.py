@@ -2,10 +2,11 @@ import utils
 import options
 import streamlit as st 
 
+
 st.set_page_config(
-	    page_title="Buginese Sentiment",
-	    page_icon="💚",
-	    layout="centered"
+    page_title="Buginese Sentiment",
+    page_icon="💚",
+    layout="centered"
 )
 
 st.write(
