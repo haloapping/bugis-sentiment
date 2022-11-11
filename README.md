@@ -10,3 +10,4 @@ This repo is application for sentiment analysis Buginese language (negative, neu
 
 - [ ] Use another machine learning model.
 - [ ] Use another feature extraction.
+- [ ] Hyperparameters Tuning.
