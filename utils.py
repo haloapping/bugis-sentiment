@@ -3,6 +3,7 @@ import pickle
 import sklearn
 from pathlib import Path
 
+
 nltk.download('punkt')
 
 def load_model(name):
